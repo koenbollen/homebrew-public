@@ -1,8 +1,8 @@
 class Jl < Formula
   desc "JSON Logs, a development tool for working with structured JSON logging."
   homepage "https://github.com/koenbollen/jl"
-  url "https://github.com/koenbollen/jl/releases/download/v1.1.2/jl_darwin_amd64"
-  sha256 "39a53a520cb61395048174843000d6025a971a3f108713b7b2bf6b94cece3177"
+  url "https://github.com/koenbollen/jl/releases/download/v1.2.0/jl_darwin_amd64"
+  sha256 "bbd8592847ae885b00b72af11186be55f9d11141f3b5ddf34645ba5725a224a0"
 
 
   def install
